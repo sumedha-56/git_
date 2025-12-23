@@ -1,0 +1,17 @@
+[
+  {
+    "department": "CSE",
+    "id": 1,
+    "name": "Amit"
+  },
+  {
+    "department": "ECE",
+    "id": 2,
+    "name": "Neha"
+  },
+  {
+    "department": "ME",
+    "id": 3,
+    "name": "Ravi"
+  }
+]
